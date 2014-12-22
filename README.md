@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The bread of life, or Foode of the regenerate A sermon preached at Botterwike in Holland, neere Bost
+
+1. TO THE VVORSHIPFVLL, and my very good friend, Maſter EDVVARD LEVENTHORPE, Sonne of Sr. IOHN LEVENTHORPE Knight: T. G. wiſheth increaſe of all true happineſſe.
+
 #####Body#####
-The bread of life, or Foode of the regenerate A sermon preached at Botterwike in Holland, neere Bost
+
+1. THE BREAD OF Life.
+
 **Types of content**
 
   * There are 1 **verse** lines!
